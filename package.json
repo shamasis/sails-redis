@@ -45,7 +45,7 @@
     "captains-log": "~0.11.1"
   },
   "dependencies": {
-    "lodash": "~3.9.0",
+    "lodash": "~4.17.11",
     "redis": "~0.12.0",
     "async": "~1.2.0",
     "waterline-errors": "~0.10.0",
